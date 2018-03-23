@@ -4,12 +4,15 @@
 }
 
 body{
-/* 	background-color: #fffdbc; */
+	background-color: #fffdbc;
 	width: 90%;
 	margin-left: 5%;
 	border: 15px solid #6219ff;
-	background-color:#fffdbc;
 	font-family: 'Lato', sans-serif;
-	
 
+}
+
+.jumbotron{
+	margin-bottom: 0;
+	background-color: white
 }
