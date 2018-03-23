@@ -12,7 +12,7 @@ body{
 	margin-left: 5%;
 	border: 15px solid #6219ff;
 	background-color:#fffdbc;
-	font-family: 'Lato', sans-serif;
+	;
 }
 
 img{
@@ -36,4 +36,5 @@ img{
 #fillcolor{
 	background-color: #fffdbc ;
 	margin-left:5%;
+	font-family: 'Lato', sans-serif;
 }
