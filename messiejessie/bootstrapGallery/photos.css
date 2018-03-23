@@ -1,0 +1,17 @@
+body{
+  font-family: 'Lato', sans-serif;
+  background-color:#fffdbc;
+}
+.row{
+  margin-bottom:15px;
+  margin-left:0px;
+  margin-right:0px;
+}
+#logo{
+	text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.55);
+	font-family: 'Copse', serif;
+}
+/* #page{ */
+    border: 15px solid #6219ff;
+    padding: 0;
+}
