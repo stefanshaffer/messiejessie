@@ -24,15 +24,17 @@ img{
 	width: 25%;
 	padding: 0;
 	margin: 1.66%;
-	float: left;
+/* 	float: left; */
 	border: 1px solid black;
+	
 	
 	}
 
 .frame{
-	width=100%;
-	margin-left: 10%;
+/* 	width: 100%; */
+/* 	margin-left: 10%; */
 	background-color: white;
+	
 	}
 
 #logo{
@@ -44,3 +46,6 @@ img{
 	background-color: #fffdbc ;
 }
 
+.center{
+	padding-left: 10%;
+}
